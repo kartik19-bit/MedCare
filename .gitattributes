@@ -1,0 +1,4 @@
+*.md linguist-documentation=true
+*.json linguist-documentation=true
+*.env linguist-documentation=true
+*.html linguist-documentation=true
